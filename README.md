@@ -3,17 +3,17 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 In the output, you'll find options to open the app in 🎵 Song Screen 1
-![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/song1.png)
+![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/images/song1.png)
 🎵 Song Screen 2
-![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/song2.png)
+![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/images/song2.png)
 🎵 Song Screen 3
-![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/song3.png)
+![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/images/song3.png)
 🎵 Song Screen 4
-![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/song4.png)
+![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/images/song4.png)
 🎵 Song Screen 5
-![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/song5.png)
+![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/images/song5.png)
 🎵 Song Screen 6
-![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/song6.png)
+![song6](https://raw.githubusercontent.com/dilipios12/apna_music_applictions/main/assets/images/song6.png)
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
